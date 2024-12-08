@@ -8,5 +8,6 @@ mkShell {
     cargo
     rustfmt
     clippy
+    rust-analyzer
   ];
 }
